@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LokaliseTest</string>
+    <string name="create_wallet_import">I have an account</string>
+    <string name="hello_world">Hello world!</string>
+</resources>
